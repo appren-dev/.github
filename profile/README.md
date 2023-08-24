@@ -28,4 +28,4 @@ Nuestra visión es convertirnos en la plataforma líder en educación en línea 
 
 ![logo](https://res.cloudinary.com/dnqfh2chg/image/upload/v1692886911/apren-dev_logo_nv69q9.png)
 
-[Visita nuestra web](https://www.apre-dev.com)
+[Visita nuestra web](https://www.apren-dev.com)
